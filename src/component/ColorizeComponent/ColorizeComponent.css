@@ -1,0 +1,18 @@
+.colorize {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.colorize .box {
+    color: #a033ff;
+    border-radius: 0.5rem;
+    width: 100%;
+}
+
+.colorize button {
+    color: #3347ff;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+}
